@@ -56,3 +56,8 @@ A single page app to search for new books to read.
 https://book-search-engine-2022825.herokuapp.com/
 
 # Deployed Site Screenshots
+![shotscreen01](https://user-images.githubusercontent.com/101642385/192075124-e05106fc-01a8-4073-ad59-344ee77d2184.png)
+![shotscreen02](https://user-images.githubusercontent.com/101642385/192075130-b4243567-ebde-42a3-9c6f-8a05d44f3d8e.png)
+![shotscreen03](https://user-images.githubusercontent.com/101642385/192075136-d23f87d5-4059-4aed-ba47-96ab645bdd8d.png)
+
+
