@@ -7,7 +7,7 @@ A single page app to search for new books to read.
 * [Acceptance Criteria](#acceptance-criteria)
 * [Technologies Use](#technologies-use)
 * [Contact Information](#contact-information)
-* [Deployed site](deployed-site)
+* [Deployed site](#deployed-site)
 * [Deployed Site Screenshots](#deployed-site-screenshots)
 
 
